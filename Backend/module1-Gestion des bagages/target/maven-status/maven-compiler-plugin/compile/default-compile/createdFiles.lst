@@ -1,0 +1,11 @@
+com\travel\bagage\dto\BagageResponse.class
+com\travel\bagage\repository\BagageRepository.class
+com\travel\bagage\config\OpenApiConfig.class
+com\travel\bagage\controller\BagageController.class
+com\travel\bagage\mapper\BagageMapper.class
+com\travel\bagage\BagageApplication.class
+com\travel\bagage\entity\Bagage.class
+com\travel\bagage\exception\ResourceNotFoundException.class
+com\travel\bagage\service\BagageService.class
+com\travel\bagage\exception\GlobalExceptionHandler.class
+com\travel\bagage\dto\BagageRequest.class

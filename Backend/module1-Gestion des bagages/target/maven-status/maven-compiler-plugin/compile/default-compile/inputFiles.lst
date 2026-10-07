@@ -1,0 +1,11 @@
+C:\Users\saous\projet-reservation\Backend\module1-Gestion des bagages\src\main\java\com\travel\bagage\entity\Bagage.java
+C:\Users\saous\projet-reservation\Backend\module1-Gestion des bagages\src\main\java\com\travel\bagage\repository\BagageRepository.java
+C:\Users\saous\projet-reservation\Backend\module1-Gestion des bagages\src\main\java\com\travel\bagage\controller\BagageController.java
+C:\Users\saous\projet-reservation\Backend\module1-Gestion des bagages\src\main\java\com\travel\bagage\exception\GlobalExceptionHandler.java
+C:\Users\saous\projet-reservation\Backend\module1-Gestion des bagages\src\main\java\com\travel\bagage\mapper\BagageMapper.java
+C:\Users\saous\projet-reservation\Backend\module1-Gestion des bagages\src\main\java\com\travel\bagage\service\BagageService.java
+C:\Users\saous\projet-reservation\Backend\module1-Gestion des bagages\src\main\java\com\travel\bagage\exception\ResourceNotFoundException.java
+C:\Users\saous\projet-reservation\Backend\module1-Gestion des bagages\src\main\java\com\travel\bagage\BagageApplication.java
+C:\Users\saous\projet-reservation\Backend\module1-Gestion des bagages\src\main\java\com\travel\bagage\dto\BagageRequest.java
+C:\Users\saous\projet-reservation\Backend\module1-Gestion des bagages\src\main\java\com\travel\bagage\config\OpenApiConfig.java
+C:\Users\saous\projet-reservation\Backend\module1-Gestion des bagages\src\main\java\com\travel\bagage\dto\BagageResponse.java

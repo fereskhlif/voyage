@@ -2,6 +2,7 @@ package com.travel.bagage.controller;
 
 import com.travel.bagage.dto.BagageRequest;
 import com.travel.bagage.dto.BagageResponse;
+import com.travel.bagage.dto.BagageStatisticsResponse;
 import com.travel.bagage.service.BagageService;
 import jakarta.validation.Valid;
 import org.springframework.http.HttpStatus;
@@ -28,6 +29,11 @@ public class BagageController {
     @GetMapping
     public ResponseEntity<List<BagageResponse>> getAllBagages() {
         return ResponseEntity.ok(bagageService.getAllBagages());
+    }
+
+    @GetMapping("/statistics")
+    public ResponseEntity<BagageStatisticsResponse> getStatistics() {
+        return ResponseEntity.ok(bagageService.getStatistics());
     }
 
     @GetMapping("/{id}")

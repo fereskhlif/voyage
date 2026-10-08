@@ -20,7 +20,6 @@ public class BagageRequest {
     @NotBlank(message = "Le statut est obligatoire")
     private String statut;
 
-    @NotNull(message = "Le prix est obligatoire")
-    @Positive(message = "Le prix doit être positif")
+    // Calculé automatiquement selon le poids du bagage si omis
     private Double prix;
 }

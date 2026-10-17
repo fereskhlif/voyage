@@ -1,0 +1,10 @@
+{
+  "description": "Plan and book personalized travel adventures with an intuitive interface featuring destination selection, date inputs, and tour options for seamless trip planning.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
